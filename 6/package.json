@@ -9,7 +9,7 @@
 	"author": "mithu",
 	"license": "ISC",
 	"devDependencies": {
-		"webpack": "^4.41.6"
+		"webpack": "^5.75.0"
 	},
 	"dependencies": {}
 }
